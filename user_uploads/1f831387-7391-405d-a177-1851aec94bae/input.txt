@@ -1,0 +1,3 @@
+file 'C:/python/VIDSNAPAI/user_uploads/1f831387-7391-405d-a177-1851aec94bae/daredevil-born--26085.jpg'
+duration 1
+file 'C:/python/VIDSNAPAI/user_uploads/1f831387-7391-405d-a177-1851aec94bae/daredevil-born--26085.jpg'
